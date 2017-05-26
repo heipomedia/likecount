@@ -1,1 +1,1 @@
-ShareCount plugin
+LikeCount plugin
