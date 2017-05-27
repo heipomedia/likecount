@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LikeCount
- * Plugin URI: https://heipomedia.de
+ * Plugin URI: https://www.heipomedia.de
  * Description: A simple plugin for fetching likes from Facebook, Twitter and Instagram
  * Version: 1.0.0
  * Author: Marc Heiduk
- * Author URI: https://heipomedia.de
+ * Author URI: https://www.heipomedia.de
  * License: MIT
  */
 
